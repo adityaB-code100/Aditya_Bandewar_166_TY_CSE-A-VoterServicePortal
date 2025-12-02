@@ -91,4 +91,7 @@ The application uses a normalized database structure with the following tables:
 
 ## License
 
-This project is for educational purposes only.
+This project is for  Made for educational purposes only.
+Made By 
+1) Aditya Bandewar
+2) Pawan Wadje
